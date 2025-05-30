@@ -17,3 +17,5 @@ Tabla de evaluacion de equipo<br>
     <td>7</td>
   </tr>
 </table>
+<br>
+Video de avance 1:<br>
