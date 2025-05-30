@@ -19,6 +19,7 @@ Tabla de evaluacion de equipo<br>
 </table>
 <br>
 Video de avance 1:<br>
+https://www.youtube.com/watch?v=MD9mYifHC1o<br>
 <br>
 Avances Tecnicos: <br>
 Mecanica: RPG<br>
