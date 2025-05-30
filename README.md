@@ -19,3 +19,4 @@ Tabla de evaluacion de equipo<br>
 </table>
 <br>
 Video de avance 1:<br>
+Avances Tecnicos: <br>
