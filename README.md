@@ -37,4 +37,7 @@ Agregar musica de fondo<br>
 Problemas o bloqueos:
 Tareas de otras materias<br>
 No haberse decidio por una idea final<br>
-No haber descargado el curso extracurricular de Unity
+No haber descargado el curso extracurricular de Unity<br>
+<br>
+Cambios respecto al plan original<br>
+El cambio mas destacable es que se cambio el tipo de juego de un pltaformero a un RPG, tambien se cambio la historia e inspiraciones ya que ahora toma referencia en Legend of Zelda y la mayoria de RPGs, tambien se cambio el estilo de arte a 8 bit
