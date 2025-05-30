@@ -36,3 +36,4 @@ Agregar musica de fondo<br>
 Problemas o bloqueos:
 Tareas de otras materias<br>
 No haberse decidio por una idea final<br>
+No haber descargado el curso extracurricular de Unity
