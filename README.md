@@ -1,2 +1,3 @@
 # proyecto
 Proyecto: Tiefling Adventure<br>
+La historia trata sobre un Tiefling llamado Kairus, quien esta en busqueda de retos, tesoros y emocionantes aventuras
