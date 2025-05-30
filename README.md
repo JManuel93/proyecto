@@ -25,3 +25,5 @@ Mecanica: RPG<br>
 Progreso en arte: solo pruebas de item, objetos de escenarios y enemigos<br>
 Estructura de codigo: Nada<br>
 Integracion de Elementos: nada de controles o menu de inicio <br>
+<br>
+Proximos Pasos:<br>
