@@ -10,9 +10,9 @@ La historia trata sobre un Tiefling llamado Kairus, quien esta en busqueda de re
     <th>RESPONSABILIDAD</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td>Jose Manuel Puga Lopez</td>
+    <td>Todo</td>
+    <td>Personal</td>
+    <td>7</td>
   </tr>
 </table>
