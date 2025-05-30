@@ -27,3 +27,8 @@ Estructura de codigo: Nada<br>
 Integracion de Elementos: nada de controles o menu de inicio <br>
 <br>
 Proximos Pasos:<br>
+Diseño final del personaje principal<br>
+Codigo de movimientos de personaje<br>
+Agregar escenario y fondos<br>
+Dar movimientos a enemigos<br>
+Agregar musica de fondo
