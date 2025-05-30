@@ -4,18 +4,15 @@ La historia trata sobre un Tiefling llamado Kairus, quien esta en busqueda de re
 <br>
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>NOMBRE</th>
+    <th>COLABORACION</th>
+    <th>COMUNICACION</th>
+    <th>RESPONSABILIDAD</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
 </table>
