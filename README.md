@@ -19,4 +19,7 @@ Tabla de evaluacion de equipo<br>
 </table>
 <br>
 Video de avance 1:<br>
+<br>
 Avances Tecnicos: <br>
+Mecanica: RPG<br>
+Prigreso en arte: 
