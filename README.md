@@ -31,4 +31,8 @@ Diseño final del personaje principal<br>
 Codigo de movimientos de personaje<br>
 Agregar escenario y fondos<br>
 Dar movimientos a enemigos<br>
-Agregar musica de fondo
+Agregar musica de fondo<br>
+<br>
+Problemas o bloqueos:
+Tareas de otras materias<br>
+No haberse decidio por una idea final<br>
