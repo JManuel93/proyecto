@@ -22,4 +22,6 @@ Video de avance 1:<br>
 <br>
 Avances Tecnicos: <br>
 Mecanica: RPG<br>
-Progreso en arte: 
+Progreso en arte: solo pruebas de item, objetos de escenarios y enemigos<br>
+Estructura de codigo: Nada<br>
+Integracion de Elementos: nada de controles o menu de inicio <br>
