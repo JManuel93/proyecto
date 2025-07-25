@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5090722419536680460}
   - component: {fileID: 4073321885971018895}
   - component: {fileID: 7810543933051187813}
+  - component: {fileID: 7321526915063884223}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -202,6 +203,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 8383871437435419270}
+--- !u!114 &7321526915063884223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2155388896478657536}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a292dfa6c746f4f1380e489c2e8642b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameStateChangedEvent: {fileID: 11400000, guid: 775d5b7eb7026ee42954c31ef133f436, type: 2}
+  components:
+  - {fileID: 1420376963089314194}
+  enabledStates:
+  - {fileID: 11400000, guid: aa938007d52ac7b43a7b2ce0ca29e72c, type: 2}
+  disabledStates:
+  - {fileID: 11400000, guid: 66ed713753bb71949b06eae33bb6afb4, type: 2}
+  - {fileID: 11400000, guid: 90adb9fbab936504f8444c72c95e5790, type: 2}
+  onMainMenuState:
+    m_PersistentCalls:
+      m_Calls: []
+  onLoadingState:
+    m_PersistentCalls:
+      m_Calls: []
+  onPlayingState:
+    m_PersistentCalls:
+      m_Calls: []
+  onPauseState:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2594497333903300728
 GameObject:
   m_ObjectHideFlags: 0
