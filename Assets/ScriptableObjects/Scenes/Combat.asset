@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be9feef047da9c74e89a0dff448f00a3, type: 3}
-  m_Name: Sensei
+  m_Script: {fileID: 11500000, guid: 10c2e3246a63a04409e00fbfc6c4299b, type: 3}
+  m_Name: Combat
   m_EditorClassIdentifier: 
-  fullname: Sensei
-  portrait: {fileID: 1404248521807868572, guid: ae2e59adf58c94839a4a49d1a41c5920, type: 3}
+  sceneName: Combat

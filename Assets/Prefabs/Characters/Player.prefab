@@ -155,7 +155,19 @@ MonoBehaviour:
     m_ActionId: acc13521-7149-49d3-84a9-ef090bc1b6a1
     m_ActionName: PlayerControls/Movement[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]
   - m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 5249717459565709666}
+        m_TargetAssemblyTypeName: PlayerInteraction, Assembly-CSharp
+        m_MethodName: EnableInteractable
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_ActionId: fa1c4438-78dc-4728-a946-eba0d5bf8c2c
     m_ActionName: PlayerControls/Interact[/Keyboard/e]
   m_NeverAutoSwitchControlSchemes: 0
@@ -223,6 +235,7 @@ MonoBehaviour:
   disabledStates:
   - {fileID: 11400000, guid: 66ed713753bb71949b06eae33bb6afb4, type: 2}
   - {fileID: 11400000, guid: 90adb9fbab936504f8444c72c95e5790, type: 2}
+  - {fileID: 11400000, guid: d692c2adfff05fc4f8aad2ff3ac081ab, type: 2}
   onMainMenuState:
     m_PersistentCalls:
       m_Calls: []
@@ -235,6 +248,9 @@ MonoBehaviour:
   onPauseState:
     m_PersistentCalls:
       m_Calls: []
+  onDialogueState:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2594497333903300728
 GameObject:
   m_ObjectHideFlags: 0
@@ -245,6 +261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3377488404001333670}
   - component: {fileID: 3649023169594136033}
+  - component: {fileID: 5249717459565709666}
   m_Layer: 7
   m_Name: Interaction
   m_TagString: Player
@@ -312,6 +329,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.0478301, y: 0.5535362}
   m_EdgeRadius: 0
+--- !u!114 &5249717459565709666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2594497333903300728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31146cde2a6614396b6d061908b5deb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactableTag: Interactable
+  interactionRequestEvent: {fileID: 11400000, guid: 1408fc3c3fb20324cb9b85e4241a3245, type: 2}
 --- !u!1 &4240508425967751210
 GameObject:
   m_ObjectHideFlags: 0

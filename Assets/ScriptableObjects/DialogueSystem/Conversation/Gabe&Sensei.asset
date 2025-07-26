@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583cb4fca7623324ab84fef79452792e, type: 3}
+  m_Name: Gabe&Sensei
+  m_EditorClassIdentifier: 
+  leftCharacter: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+  rightCharacter: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+  sentences:
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: "Hola extra\xF1o."
+  - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: "\xBFHola?"
+  - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+    text: AHHHHH!!!
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: AHHHHH!!!
+  - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+    text: Ah, lo siento jovencito estaba dormido de pie.
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: Ya...ya veo.
+  - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+    text: "Bueno jovencito, ten cuidado por tu camino. El pueblo m\xE1s cercano esta
+      adelante, aunque si te desvias puede que te encuentres con un monstruo."
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: "Gracias por el consejo extra\xF1o anciano."
