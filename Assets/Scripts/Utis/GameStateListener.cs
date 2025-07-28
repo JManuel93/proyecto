@@ -19,6 +19,7 @@ public class GameStateListener : MonoBehaviour
     public UnityEvent onPlayingState;
     public UnityEvent onPauseState;
     public UnityEvent onDialogueState;
+    public UnityEvent onCombatState;
 
     private void OnEnable()
     {
