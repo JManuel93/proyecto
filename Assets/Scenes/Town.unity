@@ -1051,7 +1051,7 @@ GameObject:
   - component: {fileID: 6215524528595378905}
   - component: {fileID: 1500919801918446196}
   m_Layer: 7
-  m_Name: ExitsFromHouse
+  m_Name: ExitsFromCombat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1066,7 +1066,7 @@ Transform:
   m_GameObject: {fileID: 3611099003291696176}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.09, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1087,7 +1087,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: {fileID: 11400000, guid: 65f1bd61a3f27914c9a9d1648d72bc23, type: 2}
   levelEntrance: {fileID: 11400000, guid: 73bfdc5f827784c4db5064d0f8589b39, type: 2}
-  loadingScreen: 1
+  loadingScreen: 0
   playerPath: {fileID: 11400000, guid: 9a81fd084bd497846be19a94a830d569, type: 2}
   loadSceneEvent: {fileID: 11400000, guid: a6ccd4e6d020f4b418f6ca6f9571fc57, type: 2}
 --- !u!1001 &1873258830326051678
@@ -1176,7 +1176,7 @@ Transform:
   m_GameObject: {fileID: 1185088151950189063}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.11, y: -4.91, z: 0}
+  m_LocalPosition: {x: 17.11, y: -5.88, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6131,7 +6131,7 @@ Transform:
   m_GameObject: {fileID: 271664810648363886}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.69, y: -5.13, z: 0}
+  m_LocalPosition: {x: 16.69, y: -4.73, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
