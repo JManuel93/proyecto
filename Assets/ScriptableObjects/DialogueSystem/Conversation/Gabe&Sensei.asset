@@ -31,6 +31,10 @@ MonoBehaviour:
     text: Ya...ya veo.
   - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
     text: "Bueno jovencito, ten cuidado por tu camino. El pueblo m\xE1s cercano esta
-      adelante, aunque si te desvias puede que te encuentres con un monstruo."
+      adelante, aunque ahora mismo no puedes ir para ahi."
   - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
-    text: "Gracias por el consejo extra\xF1o anciano."
+    text: Ya veo.
+  - character: {fileID: 11400000, guid: a2010afd605f7554dab872698bbbdb9e, type: 2}
+    text: Pero si te desvias para abajo puedes encontrarte con un monstruo.
+  - character: {fileID: 11400000, guid: 3b1ac706a047f294dac63fd98a6098f9, type: 2}
+    text: Gracias por el consejo anciano.
