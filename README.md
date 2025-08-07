@@ -1,6 +1,6 @@
 # proyecto
 Proyecto: Fantasy Adventure<br>
-La historia trata sobre un humano llamado Gabe, quien esta en busqueda de retos, tesoros y emocionantes aventuras, pero se dara cuenta de que todo tiene un precio a pagar cuando la oscuridad, peligros y enemigos se acercan para detenerlo y regresarlo a los infiernos donde pertenece<br>
+La historia trata sobre un humano llamado Gabe, quien esta en busqueda de retos, tesoros y emocionantes aventuras, pero en su camino se encontrara con un anciano que le dira que hay monstruos con los que pelear en el camino.<br>
 <br>
 Tabla de evaluacion de equipo<br>
 <table>
