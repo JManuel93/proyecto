@@ -33,7 +33,7 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 
 [Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
 
-### 1.3 Resumen de la historia del juego.
+### 1.3 Objetivos del juego.
 
 [Incluyan entre 6 y 10 puntos en la lista.]: # 
 
