@@ -72,6 +72,8 @@ Abeja Mutante<br>
 ## 6. Plan del proyecto
 
 [El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
+![](Diagrama_Proyecto2.png)
+![](Diagrama_Proyecto1.png)
 
 ## 7. Bibliografía
 
