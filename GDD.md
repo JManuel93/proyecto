@@ -10,7 +10,7 @@
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 ## 🎮 Instrucciones de uso
-[Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.]
+[Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.] #
 
 Ejemplo:
 - Unity versión: 2022.3.x LTS
