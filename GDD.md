@@ -48,6 +48,8 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 4. Mecánicas del Juego
 
 [Incluye ejemplos claros o diagramas.]: # 
+![](JuegoMecanicas1.png)
+![](JuegoMecanicas2.png)
 
 ## 5. Personajes
 
