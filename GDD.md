@@ -71,13 +71,19 @@ Gabe <br>
 <br>
 ![](Gabe.png)
 <br>
+Puede moverse con las teclas ASWD, en la escena de combate ataca con el boton de espada, se cura con el boton de pocima e interactua con el NPC con la tecla E y con el boton A que aparece cuando se acerca a él.
+<br>
 Anciano<br>
 <br>
 ![](Anciano.png)
 <br>
+Esta quieto a mitad del camino, cuando Gabe (el jugador) se le acerca puede hablar con el si el jugador pulsa la tecla E o la tecla A que aparece cuando esta a su lado.
+<br>
 Abeja Mutante<br>
 <br>
 ![](Abeja.png)
+<br>
+Ataca a Gabe (el jugador) en la escena de combate, cuando es derrotado se le da al jugador una recompensa en monedas y el jugador puede elegir si ir a otro nivel de combate o terminar el combate e ir al bosque.
 
 ## 6. Plan del proyecto
 
