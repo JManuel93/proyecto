@@ -48,6 +48,9 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 4. Mecánicas del Juego
 
 [Incluye ejemplos claros o diagramas.]: # 
+Combate: Durante el juego el jugador se enfrentará a las abejas mutantes a quienes tendrá que vencer <br>
+Interacción con NPC:  Para esto el jugador se acercará a los NPC y al hacerlo se aparecerá un botón para hablar con ellos. <br>
+
 ![](JuegoMecanicas1.png)
 ![](JuegoMecanicas2.png)
 
