@@ -44,6 +44,7 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 2. Jugabilidad
 
 [Escribe un resumen de mínimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
+![](teclado.jpg)
 
 ## 3. Mundo del juego
 
