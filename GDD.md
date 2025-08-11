@@ -19,7 +19,7 @@ Equipo: Jose Manuel Puga Lopez
 | Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
 | Jose Manuel Puga Lopez | Programador | 10 | 9 |
-| Paragraph | Text |  - | - |
+| Jose Manuel Puga Lopez | Animador |  10 | 9 |
 
 ## 1. Propósito de tu juego
 
