@@ -62,3 +62,5 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 7. Bibliografía
 
 [Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # 
+Diseño avanzado de videojuegos RPG con Unity. (2021, 11 agosto). [Vídeo]. Domestika. <br>
+https://www.domestika.org/es/courses/1761-diseno-avanzado-de-videojuegos-rpg-con-unity
