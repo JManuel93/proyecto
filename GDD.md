@@ -27,12 +27,12 @@ Equipo: Jose Manuel Puga Lopez
 ### 1.1 Resumen del juego
 
 El juego se centra en un aventurero humano quien pelea contra un grupo de abejas mutantes gigantes.<br>
-El género del juego de fantasía RPG, su estilo grafico es en formato de pixel art, la ambientación del mundo es de fantasía medieval, las mecánicas serán las clásicas de los RPG (combate, puzles y acertijo), las inspiraciones para el juego son: Legend of Zelda y DnD, el jugador tendrá que mover al personaje, combatir a los monstruos.
+El género del juego de fantasía RPG, su estilo grafico es en formato de pixel art, la ambientación del mundo es de fantasía medieval, las mecánicas serán las clásicas de los RPG (combate, puzles y acertijo), las inspiraciones para el juego son: Legend of Zelda y DnD, el jugador tendrá que mover al personaje y combatir contra los monstruos.
 
 ### 1.2 Resumen de la historia del juego
 
 [Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
-
+La historia se centra en Gabe un humano quien está en un bosque encantado y se enfrentara a unas abejas mutantes gigantes. Cuando termina de pelear contra las abejas, sale caminando por el bosque de fantasía donde se encuentra con un anciano dormido quien le dice que las entradas a los pueblos más próximos están bloqueadas, pero que si se desvía del camino encontrara un par de monstruos.
 
 ### 1.3 Objetivos del juego.
 1- Acciones del Jugador: Ataque, Curar, Moverse e Interactuar con NPCs. <br>
@@ -53,6 +53,7 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 3. Mundo del juego
 
 [Es importante que su proyecto abarque al menos 4 hojas.]: # 
+El juego se juega como los clásicos RPG, es decir sistema de combates, interacción con NPCs y caminos por donde puede viajar el jugador. El jugador atacara a las abejas con el boton de espada, se curara con el boton de pociones, puede poner pausa con el boton de pausa, se movera con el circulo en la esquina del juego y con las teclas AWSD y podra hablar con el NPC con la tecla E o con el boton que aparecera cuando se acerque al NPC.
 
 ## 4. Mecánicas del Juego
 
