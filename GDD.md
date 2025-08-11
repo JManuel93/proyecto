@@ -57,8 +57,14 @@ Interacción con NPC:  Para esto el jugador se acercará a los NPC y al hacerlo 
 ## 5. Personajes
 
 [Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # 
+Gabe <br>
+<br>
 ![](Gabe.png)
+Anciano<br>
+<br>
 ![](Anciano.png)
+Abeja Mutante<br>
+<br>
 ![](Abeja.png)
 
 ## 6. Plan del proyecto
