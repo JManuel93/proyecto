@@ -22,7 +22,7 @@ Ejemplo:
 
 | Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
+| Jose Manuel Puga Lopez | Programador | 10 | 9 |
 | Paragraph | Text |  - | - |
 
 ## 1. Propósito de tu juego
