@@ -60,9 +60,11 @@ Interacción con NPC:  Para esto el jugador se acercará a los NPC y al hacerlo 
 Gabe <br>
 <br>
 ![](Gabe.png)
+<br>
 Anciano<br>
 <br>
 ![](Anciano.png)
+<br>
 Abeja Mutante<br>
 <br>
 ![](Abeja.png)
