@@ -6,8 +6,7 @@ Equipo: Jose Manuel Puga Lopez
 
 
 [Añade una imagen de tu juego.]: #
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![](JuegoCaptura.png)
 
 ## 🎮 Instrucciones de uso
 [Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.] #
