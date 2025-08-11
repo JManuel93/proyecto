@@ -13,7 +13,7 @@
 [Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.] #
 
 Ejemplo:
-- Unity versión: 2022.3.x LTS
+- Unity versión: 2022.3.47f1
 - Plataforma: PC
 - Controles: W: Ir arriba, A: Ir a la izquierda, S: Ir abajo, D: Ir a la derecha, E: Interactuar con los NPC.
 
