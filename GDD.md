@@ -26,6 +26,8 @@ Ejemplo:
 | Paragraph | Text |  - | - |
 
 ## 1. Propósito de tu juego
+El juego se centra en un aventurero humano quien pelea contra un grupo de abejas mutantes gigantes.<br>
+El género del juego de fantasía RPG, su estilo grafico es en formato de pixel art, la ambientación del mundo es de fantasía medieval, las mecánicas serán las clásicas de los RPG (combate, puzles y acertijo), las inspiraciones para el juego son: Legend of Zelda y DnD, el jugador tendrá que mover al personaje, combatir a los monstruos.
 
 ### 1.1 Resumen del juego
 
