@@ -71,21 +71,24 @@ Gabe <br>
 <br>
 ![](Gabe.png)
 <br>
-Puede moverse con las teclas ASWD, en la escena de combate ataca con el boton de espada, se cura con el boton de pocima e interactua con el NPC con la tecla E y con el boton A que aparece cuando se acerca a él.
+Puede moverse con las teclas ASWD, en la escena de combate ataca con el boton de espada, se cura con el boton de pocima e interactua con el NPC con la tecla E y con el boton A que aparece cuando se acerca a él.<br>
+Gabe es el personaje principal que va a controlar el jugador, ataca usando una espada, sus combates no incluyen animación pero si afecta a la barra de vida del enemigo atacante.
 <br>
 <br>
 Anciano<br>
 <br>
 ![](Anciano.png)
 <br>
-Esta quieto a mitad del camino, cuando Gabe (el jugador) se le acerca puede hablar con el si el jugador pulsa la tecla E o la tecla A que aparece cuando esta a su lado.
+Esta quieto a mitad del camino, cuando Gabe (el jugador) se le acerca puede hablar con el si el jugador pulsa la tecla E o la tecla A que aparece cuando esta a su lado.<br>
+El anciano es un simple anciano que esta ahi durmiendo y que le da le aviso a Gabe de que los caminos estan bloqueados y que si se desvia entrara en combate.
 <br>
 <br>
 Abeja Mutante<br>
 <br>
 ![](Abeja.png)
 <br>
-Ataca a Gabe (el jugador) en la escena de combate, cuando es derrotado se le da al jugador una recompensa en monedas y el jugador puede elegir si ir a otro nivel de combate o terminar el combate e ir al bosque.
+Ataca a Gabe (el jugador) en la escena de combate, cuando es derrotado se le da al jugador una recompensa en monedas y el jugador puede elegir si ir a otro nivel de combate o terminar el combate e ir al bosque.<br>
+Esta abeja atacara a Gabe si se entra en la escena de combate y atacara afectando la barra de vida de Gabe, si las abejas mutantes derrotan a Gabe le quitaran todas sus monedas ganadas anteriormente.
 
 ## 6. Plan del proyecto
 
