@@ -54,6 +54,9 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 ## 5. Personajes
 
 [Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # 
+![](Gabe.png)
+![](Anciano.png)
+![](Abeja.png)
 
 ## 6. Plan del proyecto
 
