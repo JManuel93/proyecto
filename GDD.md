@@ -33,7 +33,15 @@ El género del juego de fantasía RPG, su estilo grafico es en formato de pixel 
 
 [Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
 
+
 ### 1.3 Objetivos del juego.
+1- Acciones del Jugador: Ataque, Curar, Moverse e Interactuar con NPCs. <br>
+2- Duración: Cerca de 10 minutos. <br>
+3- Misiones: Derrotar tantas Anejas Mutantes como quiera el jugador. <br>
+4- Escenarios: Bosque de Fantasia. <br>
+5- Interacciones: Interactuar con el anciano del bosque. <br>
+6- Sistema de elecciones: Elegir si quiere otro combate o no. <br>
+7- Hablidades: ataque y curar. <br>
 
 [Incluyan entre 6 y 10 puntos en la lista.]: # 
 
