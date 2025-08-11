@@ -14,7 +14,7 @@ Tabla de evaluacion de equipo<br>
     <td>Jose Manuel Puga Lopez</td>
     <td>Todo</td>
     <td>Personal</td>
-    <td>7</td>
+    <td>9</td>
   </tr>
 </table>
 <br>
