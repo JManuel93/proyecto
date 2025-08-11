@@ -15,7 +15,7 @@
 Ejemplo:
 - Unity versión: 2022.3.x LTS
 - Plataforma: PC
-- Controles: Teclas de flecha para moverse, espacio para saltar
+- Controles: W: Ir arriba, A: Ir a la izquierda, S: Ir abajo, D: Ir a la derecha, E: Interactuar con los NPC.
 
 
 ## Tabla de evaluación del equipo.
