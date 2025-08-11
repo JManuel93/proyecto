@@ -73,11 +73,13 @@ Gabe <br>
 <br>
 Puede moverse con las teclas ASWD, en la escena de combate ataca con el boton de espada, se cura con el boton de pocima e interactua con el NPC con la tecla E y con el boton A que aparece cuando se acerca a él.
 <br>
+<br>
 Anciano<br>
 <br>
 ![](Anciano.png)
 <br>
 Esta quieto a mitad del camino, cuando Gabe (el jugador) se le acerca puede hablar con el si el jugador pulsa la tecla E o la tecla A que aparece cuando esta a su lado.
+<br>
 <br>
 Abeja Mutante<br>
 <br>
@@ -96,3 +98,9 @@ Ataca a Gabe (el jugador) en la escena de combate, cuando es derrotado se le da 
 [Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # 
 Diseño avanzado de videojuegos RPG con Unity. (2021, 11 agosto). [Vídeo]. Domestika. <br>
 https://www.domestika.org/es/courses/1761-diseno-avanzado-de-videojuegos-rpg-con-unity
+<br> <br>
+Kenney. (s/f). UI Pack (RPG Expansion) · Kenney. Kenney.nl. Recuperado el 11 de agosto de 2025, de https://www.kenney.nl/assets/ui-pack-rpg-expansion
+<br><br>
+(N.d.). Itch.Io. Retrieved August 11, 2025, from https://bakudas.itch.io/paquete-de-rpg-generico
+<br><br>
+Download Archive, & Beta Program. (n.d.). Fantasy Pixel Trees. Unity.com. Retrieved August 11, 2025, from https://assetstore.unity.com/packages/2d/environments/fantasy-pixel-trees-269458
