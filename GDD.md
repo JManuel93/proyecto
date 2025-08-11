@@ -1,8 +1,8 @@
-# Nombre de tu juego
+# Fantasy Adventure
 
 **Desarrolladores:**
 
-[Escribe los nombres de los integrantes de tu equipo.]: # 
+Equipo: Jose Manuel Puga Lopez 
 
 
 [Añade una imagen de tu juego.]: #
