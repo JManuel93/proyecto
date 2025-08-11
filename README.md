@@ -45,5 +45,9 @@ El cambio mas destacable es que se cambio el tipo de juego de un pltaformero a u
 Enlaces relevantes: <br>
 GitHub: https://github.com/JManuel93/proyecto <br>
 ItchIo: https://jm4nuel.itch.io/fantasyadventure <br>
+Sprites: <br>
+https://www.kenney.nl/assets/ui-pack-rpg-expansion <br>
+https://bakudas.itch.io/generic-rpg-pack <br>
+https://assetstore.unity.com/packages/2d/environments/fantasy-pixel-trees-269458 <br>
 <br>
 Este documento fue elaborado por: José Manuel Puga López
